@@ -1,2 +1,1 @@
-Create React full stack application using Meteor and graphql.
-
+React and Apollo example using Meteor.
